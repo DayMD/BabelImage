@@ -1,0 +1,10 @@
+C:\Users\caspe\source\repos\babelImage\obj\Debug\babelImage.csprojAssemblyReference.cache
+C:\Users\caspe\source\repos\babelImage\obj\Debug\babelImage.Form1.resources
+C:\Users\caspe\source\repos\babelImage\obj\Debug\babelImage.Properties.Resources.resources
+C:\Users\caspe\source\repos\babelImage\obj\Debug\babelImage.csproj.GenerateResource.cache
+C:\Users\caspe\source\repos\babelImage\obj\Debug\babelImage.csproj.CoreCompileInputs.cache
+C:\Users\caspe\source\repos\babelImage\bin\Debug\babelImage.exe.config
+C:\Users\caspe\source\repos\babelImage\bin\Debug\babelImage.exe
+C:\Users\caspe\source\repos\babelImage\bin\Debug\babelImage.pdb
+C:\Users\caspe\source\repos\babelImage\obj\Debug\babelImage.exe
+C:\Users\caspe\source\repos\babelImage\obj\Debug\babelImage.pdb
